@@ -1,5 +1,5 @@
 ## Hello World!
-👋 Hi, I'm Fernanda
+👋 I'm Fernanda
 
 <div>
   <a href="https://github.com/fernandasilva-dev">
