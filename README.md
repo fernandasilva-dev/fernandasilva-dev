@@ -13,6 +13,7 @@
   <img align="center" alt="Fe-Python" height="30" width="40" src="https://skillicons.dev/icons?i=py">
   <img align="center" alt="Fe-c" height="30" width="40" src="https://skillicons.dev/icons?i=c">
   <img align="center" alt="Fe-javascript" height="30" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Fe-java" height="30" width="40" src="https://skillicons.dev/icons?i=java">
 </div>
 
   ##
